@@ -18,7 +18,7 @@ Example:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/CGJ-2022.git
+   git clone https://github.com/odilonv/CGJ-2022.git
    ```
 
 2. Open the Unity project in Unity Hub.
