@@ -6,10 +6,6 @@ This project was developed during the Code Gam Jam 2022, a game development comp
 
 The results of Code Gam Jam 2022 are available on the [official website](http://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/resultats/).
 
-## Project Description
-
-Insert a brief description of your Unity project, including its features, concept, and any relevant information.
-
 ## Installation Instructions
 
 To run the game, simply execute the `DTC 2D.exe` file. No additional installation steps are required.
