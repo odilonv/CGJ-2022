@@ -25,7 +25,7 @@ Example:
 
 3. Run the DTC 2D.exe executable.
 
-Authors
+## Authors
 
 * Escaplez Loïc
 * Vidal Odilon
