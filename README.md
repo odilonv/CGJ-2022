@@ -23,7 +23,7 @@ Example:
 
 ## Authors
 
-* Escaplez Loïc
+* Esclapez Loïc
 * Vidal Odilon
 * Croc Benjamin
 * Iguercha Louis
